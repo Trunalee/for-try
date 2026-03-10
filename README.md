@@ -6,3 +6,6 @@ Edited file
 
 Watch tutorial on YouTube whenever you feel you want to learn something new.
 
+## Local Development
+
+1.  Open index.html in your browser
